@@ -143,3 +143,9 @@ class Test1(TestCase):
         test_image.save(test, 'png')
         print(type(result_image), type(test))
         self.assertEqual(type(result_image), type(test))
+        
+
+        
+        
+        
+        
