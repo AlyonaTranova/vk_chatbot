@@ -1,6 +1,6 @@
 # Use your token and group id
 TOKEN = ''
-GROUP_ID = 201846010
+GROUP_ID = 
 
 INTENTS = [
     {
